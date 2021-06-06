@@ -1,0 +1,6 @@
+.my_btn{
+    text-transform: uppercase;
+}
+.my_btn:focus{
+    box-shadow: none !important;
+}
